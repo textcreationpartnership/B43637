@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition from the country, to the honourable House of Commons, concerning the toleration</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43637</idno><idno type="EEBO-CITATION">625256517</idno>
+  <idno type="VID">211302</idno>
+  <idno type="EEBO-PROQUEST">2240865408</idno>
+  
+            <idno type="OCLC"> 625256517</idno>
+            <idno type="OCLC">ocn 625256517</idno>
+            <idno type="STC">Wing P1753A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211302)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2969:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition from the country, to the honourable House of Commons, concerning the toleration</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Signed and dated at end: A.B., C.D., E.F., &amp;c., Decemb. 15, 1699 [sic].</note>
+                  <note>Imperfect: creased and stained.</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Early works to 1800.</term>
+               <term type="topical_term">Religious tolerance --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:211302:1"/>
+            <pb facs="tcp:211302:2"/>
+            <pb n="1" facs="tcp:211302:2"/>
+            <head>A PETITION FROM THE COUNTRY, To the Honourable House of Commons, CONCERNING THE TOLERATION.</head>
+            <opener>
+               <salute>Our Worthy Representatives,</salute>
+            </opener>
+            <p>HAVING long Meditated on the Dreadful Calamities, which threa<g ref="char:EOLhyphen"/>ten this Kingdom by those Unhappy Divisions amongst us: We thought it our Duty to Communicate the best of our Thoughts to this <hi>Honourable▪ House</hi> (the Fountain of Power and Redress) to<g ref="char:EOLhyphen"/>wards the preventing such Dismal Consequences: In doing of which, We crave leave to Premise these following Assertions, which Experience and Ob<g ref="char:EOLhyphen"/>servation seem to have Establish'd, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>I. That though it is Necessary <hi>in Thesi,</hi> yet it is Generally True <hi>in Pra<g ref="char:EOLhyphen"/>ctice,</hi> That where there is Difference in Opinion, as to Religious Matters, there will be Difference in Affection.</item>
+               <item>II. That every Party is Ambitious of Civil Power, and would Rule Para<g ref="char:EOLhyphen"/>mount if they could.</item>
+               <item>III. That where the Civil Power is in the Hands of Different Parties, there will be continual Struggles and Conflicts, tending to the Ruine of each other, and the Subversion of any Government.</item>
+            </list>
+            <pb n="2" facs="tcp:211302:3"/>
+            <p> These few Undeniable Propositions, and the Consequences that may fairly be Deduced from them, plainly prove, That We in <hi>England,</hi> do most Un<g ref="char:EOLhyphen"/>wisely recede from the Politicks of our Neighbouring Nations, by putting the Sword into the Hands of every Enthusiast, and encouraging each Party to Undermine the Settlement Establish'd.</p>
+            <p>Our Neighbours and Allies in <hi>Holland,</hi> admit none into Publick Trust, but such as profess the Religion of the State: And our <hi>English</hi> Parliament, <hi>Stat.</hi> 2. 13. <hi>Carol.</hi> 2. <hi>cap.</hi> 1 Enacted, <hi>That none shall bear any Office of Magi<g ref="char:EOLhyphen"/>stracy, or other Employment concerning the Government of Cities, Corporations,</hi> &amp;c. <hi>not having within a Year before their Election Receiv'd the Sacrament according to the Rites of the Church of</hi> England, <hi>&amp;c.</hi>
+            </p>
+            <p>This they thought was a sufficient Expedient to keep all such out of the Government, that were not of the National Church; and indeed, that great and solemn Act of Communion with us, seem'd to be an Effectual Bar at least to a Tender Conscience: But now we have to do with a sort of Persons that can Prevaricate with God and Man, that can be Orthodox upon Oc<g ref="char:EOLhyphen"/>casion, and Trifle with all that is Sacred, to Qualifie themselves for an Office.</p>
+            <p>Thus we frequently see those that have Deserted our Communion for ma<g ref="char:EOLhyphen"/>ny Years, as if Conscious of their Hypocrisie, stealing a Qualification from some distant Altar: A sort of Men that always act with Conformity to their Interests, and never fail to Comply when it will serve the Party. There<g ref="char:EOLhyphen"/>fore tho' Our Opinion is, That no Man's Conscience ought to be forc'd in Matters purely Religious; and that <hi>Toleration</hi> is a just Debt to those Tender Consciences, which after <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue Information, are Really and Sincerely so; yet our Petition is, <hi>That this</hi> Toleration <hi>may be so far Limited, as not to Exchange, or Offend Our Establishments.</hi>
+            </p>
+            <p>This We in all Humility leave to the Profound Wisdom of this Great and Judicious Assembly, begging leave to Hint, That perhaps it may be thought adviseable to Explain the forementioned Act, 13 <hi>Car.</hi> 2. and Enacting, <hi>That if any Person be found Present in, or Joyning with any Dissenting Conven<g ref="char:EOLhyphen"/>ticle, and be duly Convicted thereof, his Place, or Office, shall be immediately Void.</hi>
+            </p>
+            <p>Hence it will probably happen, that many that have Deserted Our Church, will be constant to us; many and great Disturbances in Corpo<g ref="char:EOLhyphen"/>rations cease; Divisions and Party-making be discountenanc'd: And since Places of Trust are generaly rather an Expence and Trouble than Advan<g ref="char:EOLhyphen"/>tage to any but Knaves, the truly Conscientious will not be Offended at such an Act.</p>
+            <p>These with all Submission, are our present Sentiments; and as this Parlia<g ref="char:EOLhyphen"/>ment seems to be of a Temper particularly suited to our present Establish<g ref="char:EOLhyphen"/>ments, so We cannot but promise our selves a Happy Result of Your Councils.</p>
+            <closer>For which you have the Hearty Prayers of your Humble Petitioners,
+<signed>
+                  <list>
+                     <item>A. B.</item>
+                     <item>C. D.</item>
+                     <item>E. F, <hi>&amp;<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Decemb.</hi> 15. 1699.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:211302:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
